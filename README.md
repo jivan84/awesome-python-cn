@@ -1149,6 +1149,7 @@ Python 实现的算法和设计模式。
 *   [Python ZEEF](https://python.zeef.com/alan.richmond)
 *   [Trending Python repositories on GitHub today](https://github.com/trending?l=python)
 *   [PyPI Ranking](http://pypi-ranking.info/alltime)
+*   [Python Library](https://www.scaler.com/topics/python-libraries/)
 
 ### 周刊
 
